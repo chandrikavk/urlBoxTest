@@ -27,7 +27,7 @@
         "humps": "~2.0.1",
         "rxjs": "~6.6.3",
         "tslib": "~2.0.0",
-        "zone.js": "~0.10.2"
+        "zone.js": "~0.13.2"
     },
     "devDependencies": {
         "@angular-devkit/build-angular": "16.0.0",
